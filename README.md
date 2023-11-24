@@ -1,5 +1,7 @@
 # Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
 
+
+
 "100 Days of Code: The Complete Python Pro Bootcamp for 2023" sounds like an extensive program aimed at mastering Python programming within a specific time frame. Courses like these typically provide comprehensive learning materials, hands-on projects, and support to help learners become proficient in Python programming.
 
 The "100 Days of Code" framework often encourages consistency and commitment by challenging participants to code for at least an hour every day for a hundred days. It's a structured approach to learning that emphasizes practice and application.
