@@ -13,3 +13,4 @@ Projects are often an integral part of such bootcamps, allowing learners to appl
 The completeness of the course suggests a comprehensive curriculum that covers a wide array of Python-related topics, enabling participants to develop a strong foundation and potentially pursue various career paths in software development, data science, or machine learning using Python.
 
 It's essential to look into the specifics of the course, such as the curriculum, instructor credentials, reviews, and any additional resources or support provided. This can help determine if it aligns with your learning goals and preferences.
+![Python-Symbol](https://github.com/Meowmerry/100DaysOfCodeTheCompletePython-ProBootcamp2023/assets/50789325/60e0c043-3f94-4efd-94ad-3c46a905f40c)
