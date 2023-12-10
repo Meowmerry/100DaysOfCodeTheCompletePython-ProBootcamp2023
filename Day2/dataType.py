@@ -101,3 +101,22 @@ height_as_int = float(height)
 # or  (height_as_int ** height_as_int)
 my_BMI = weight_as_int / (height_as_int ** 2)
 print(int(my_BMI))
+
+
+#########  round function  ############
+print(round(8/3, 2))  # 2.67
+print(round(2.755555555, 2))  # 2.76
+print(8 // 3)  # 2
+
+
+result = 4 / 2
+result /= 2
+print(result)  # 1.0
+print(round(result))  # 1
+
+# f funciton string ---> f" "
+score = 0
+height = 1.8
+isWinning = True
+print(
+    f"your score is {score}, your height {height}, your are wining is {isWinning}")  # your score is 0, your height 1.8, your are wining is True

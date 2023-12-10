@@ -19,6 +19,3 @@ final_amount = round(bill_per_person, 2)
 
 
 print(f"Each person should pay: ${final_amount}")
-print(6 + 4 / 2 - (1 * 2))
-# int("5") is 5, int(2.7) is 2, so the code becomes: a = 5 ÷ 2 which equals 2.5, which is a float.
-print(int("5") / int(2.7))
